@@ -1,4 +1,4 @@
 # exercicios
  Cursos
 
-Estou aprendendo a criar sites e agora vou gerencia meus repositórios
+Estou aprendendo a criar sites e agora vou gerenciar meus repositórios
